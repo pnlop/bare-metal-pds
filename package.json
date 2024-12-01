@@ -1,0 +1,24 @@
+{
+  "name": "bare-metal-pds",
+  "version": "1.0.0",
+  "main": "index.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/pnlop/bare-metal-pds.git"
+  },
+  "author": "Penelope Schankula",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pnlop/bare-metal-pds/issues"
+  },
+  "homepage": "https://github.com/pnlop/bare-metal-pds#readme",
+  "description": "",
+  "dependencies": {
+    "@atproto/pds": "^0.4.74",
+    "dotenv": "^16.4.5",
+    "express": "^4.21.1"
+  }
+}
